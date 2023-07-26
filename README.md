@@ -1,70 +1,13 @@
-# Getting Started with Create React App
+Olá, rede! 🚀
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Estou muito empolgado em compartilhar mais um projeto desenvolvido por mim durante o curso "React do Zero a Maestria - c/ hooks, router, API, Projetos", ministrado por Matheus Battisti, do Suporte Hora de Codar na Udemy. 🎉
 
-## Available Scripts
+O projeto em questão é um jogo divertido e desafiador, onde o objetivo é acertar a palavra secreta usando as dicas fornecidas pelo jogo e escolhendo uma letra de cada vez. É uma experiência emocionante, pois você tem 3 tentativas para cada partida. Se errar as 3, perderá o jogo e terá que começar tudo de novo.
 
-In the project directory, you can run:
+A cada palavra acertada, sua pontuação final aumenta, incentivando você a alcançar a maior pontuação possível. É uma ótima maneira de testar seu vocabulário e habilidades de dedução!
 
-### `npm start`
+O projeto foi desenvolvido inteiramente com React.js, combinando o poder do JavaScript - 72.3%, a estrutura semântica do HTML - 14.7%, e a estilização elegante do CSS - 13.0%. Essa combinação torna o jogo interativo e visualmente atraente.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Espero que apreciem esse jogo tanto quanto eu apreciei criá-lo! Sintam-se à vontade para conferir o projeto completo e deixar seus comentários. Agradeço a todos que me acompanharam nessa jornada de aprendizado. 🙏
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#programação #webdevelopment #ReactJS #projeto #jogodesafio #aprendizado #Udemy #HoraDeCodar
